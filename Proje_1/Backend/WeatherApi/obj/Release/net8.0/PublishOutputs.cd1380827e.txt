@@ -1,0 +1,11 @@
+C:\Users\kadir\OneDrive\Masaüstü\Proje1Backend\publish\WeatherApi.exe
+C:\Users\kadir\OneDrive\Masaüstü\Proje1Backend\publish\appsettings.Development.json
+C:\Users\kadir\OneDrive\Masaüstü\Proje1Backend\publish\appsettings.json
+C:\Users\kadir\OneDrive\Masaüstü\Proje1Backend\publish\WeatherApi.dll
+C:\Users\kadir\OneDrive\Masaüstü\Proje1Backend\publish\WeatherApi.deps.json
+C:\Users\kadir\OneDrive\Masaüstü\Proje1Backend\publish\WeatherApi.runtimeconfig.json
+C:\Users\kadir\OneDrive\Masaüstü\Proje1Backend\publish\WeatherApi.pdb
+C:\Users\kadir\OneDrive\Masaüstü\Proje1Backend\publish\Microsoft.OpenApi.dll
+C:\Users\kadir\OneDrive\Masaüstü\Proje1Backend\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kadir\OneDrive\Masaüstü\Proje1Backend\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kadir\OneDrive\Masaüstü\Proje1Backend\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

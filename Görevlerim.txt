@@ -1,0 +1,7 @@
+Projelerdeki görevlerim api yazarak frontend ile entegre backend oluşturmaktı.
+
+- Proje 1 Backend kısmı .NET Api ile oluşturuldu.
+- Proje 3 temel düzeyde mongodb ile entegre olan ml örnek veri tahmini yapıldı.
+- Proje 4 e-ticaret projesinde backend .NET Api ile oluşturuldu.
+
+.NET API kullanarak projelere destek verdim ve frontend ile entegre çalışmasını sağladım.
